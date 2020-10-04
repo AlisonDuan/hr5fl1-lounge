@@ -8,7 +8,7 @@ module.exports = merge(common, {
     mode: 'development',
     devServer: {
         contentBase: path.join(__dirname, './public'),
-        publicPath: 'https://hr5fl1-lounge.herokuapp.com/js/'',
+        publicPath: 'https:0.0.0.0:${PORT}/js/'',
         compress: true,
         port: PORT,
         disableHostCheck: true
