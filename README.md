@@ -1,3 +1,3 @@
-# nengi tutorials
-this repo holds the source code for various nengi tutorials, each on a separate branch
+# hr5fl1-lounge
+this repo holds the source code for the nengi game tutorials.
 ```
