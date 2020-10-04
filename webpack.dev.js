@@ -10,6 +10,7 @@ module.exports = merge(common, {
         contentBase: path.join(__dirname, './public'),
         publicPath: `http://0.0.0.0:${PORT}/js/`,
         compress: true,
-        port: PORT
+        port: PORT,
+        disableHostCheck: true
     }
 })
